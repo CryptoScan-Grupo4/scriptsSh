@@ -1,6 +1,6 @@
 #!/bin/bash
 
-jar_url="https://github.com/CryptoScan-Grupo4/CryptoJava/raw/main/target/sistema-CryptoScan-1.0-jar-with-dependencies.jar"
+jar_url="https://github.com/CryptoScan-Grupo4/CryptoScanNewJava/raw/main/target/sistema-CryptoScan-1.0-jar-with-dependencies.jar"
 
 # Nome do arquivo JAR após o download
 jar_nome="sistema-CryptoScan-1.0-jar-with-dependencies.jar"
