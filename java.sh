@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# URL do arquivo JAR no GitHub
 jar_url="https://github.com/CryptoScan-Grupo4/CryptoJava/raw/main/target/sistema-CryptoScan-1.0-jar-with-dependencies.jar"
 
 # Nome do arquivo JAR após o download
