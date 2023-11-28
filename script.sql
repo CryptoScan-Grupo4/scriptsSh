@@ -111,7 +111,6 @@ FOREIGN KEY (fkSetup) REFERENCES Setup(idSetup)
 INSERT INTO Componente (nomeModelo, modeloComponente, tipoComponente, fkSetup) VALUES
 	('Intel',  'I9' , 'Processador' , 1 ),
 	('Fury', 'DDR5 32GB' , 'Memoria RAM' , 1 ),
-	('Fury' , 'DDR5 32GB' , 'Memoria RAM' , 1 ),
 	('HD' , 'Seagate' , 'HD' , 1 ),
 	('Internet' , NULL , 'Internet - Dowload' , 1 ),
 	('Internet' , NULL , 'Internet - Upload' , 1 ),
