@@ -113,7 +113,9 @@ INSERT INTO Componente (nomeModelo, modeloComponente, tipoComponente, fkSetup) V
 	('Fury', 'DDR5 32GB' , 'Memoria RAM' , 1 ),
 	('Fury' , 'DDR5 32GB' , 'Memoria RAM' , 1 ),
 	('HD' , 'Seagate' , 'HD' , 1 ),
-	('Internet' , NULL , 'Internet' , 1 );
+	('Internet' , NULL , 'Internet - Dowload' , 1 ),
+	('Internet' , NULL , 'Internet - Upload' , 1 ),
+   	('GPU' , NULL, 'Placa de video', 1);
     
     
 CREATE TABLE UnidadeComponente(
